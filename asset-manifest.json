@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kenil_Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/kenil_Portfolio/static/js/main.56eea678.js",
+    "static/media/book-store.png": "/kenil_Portfolio/static/media/book-store.493bc1838debcedb4e00.png",
+    "static/media/note-app.png": "/kenil_Portfolio/static/media/note-app.3a39f503cd7a62a318f6.png",
+    "static/media/stock.png": "/kenil_Portfolio/static/media/stock.9af489629187111a2c0e.png",
+    "index.html": "/kenil_Portfolio/index.html",
+    "main.bf538fe7.css.map": "/kenil_Portfolio/static/css/main.bf538fe7.css.map",
+    "main.56eea678.js.map": "/kenil_Portfolio/static/js/main.56eea678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.56eea678.js"
+  ]
+}
